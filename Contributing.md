@@ -3,7 +3,7 @@
 
 Welcome, so you are thinking about contributing to Minimal-Todo? Awesome, this is a great place to start.
 
-Get in Touch please
+Get in Touch please!!!
 ------------
 
 If you are a first time contributor and want some help getting started feel free to send a private email to any of the following maintainers:
