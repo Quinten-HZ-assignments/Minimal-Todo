@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello there!
+=======
+This is the master branch!
+>>>>>>> master
